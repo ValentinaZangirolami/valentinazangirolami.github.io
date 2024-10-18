@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Valentina Zangirolami"
+  search: false
+  navbar:
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: papers.qmd
+        text: Papers & Conferences
+      - href: ed_experience.qmd
+        text: Experience
+      - href: research.qmd
+        text: Research
+
+format:
+  html:
+    page-layout: full
+    theme: simplex
+    css: styles.css
+    toc: false
+    fontsize: 1.1em
+
+editor: visual
+

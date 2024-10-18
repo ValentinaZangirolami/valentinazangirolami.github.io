@@ -1,0 +1,5 @@
+## Papers {.central}
+
+[Articles in refereed journals]{.palevioletred}
+
+1.  **Zangirolami, V.**, and Borrotti, M. (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. *Knowledge-Based Systems*, **293**.

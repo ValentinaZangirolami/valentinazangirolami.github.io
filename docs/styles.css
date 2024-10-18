@@ -1,0 +1,59 @@
+/* css styles */
+
+/* Setting navigation bar */
+.navbar {
+  background-color: palevioletred!important;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Hyperlink color */
+a {
+  color: black !important;
+}
+
+/* Visited link color */
+a:visited {
+  color: black !important;
+}
+
+/* Hover and active states color */
+a:hover, a:active {
+  color:  lightpink !important;
+}
+
+/* Apply sans-serif font across the website */
+body {
+  font-family: 'Arial', 'Helvetica', sans-serif !important;
+}
+
+/* Size of the main title */
+h1 {
+  font-size: 2rem !important;  /* title size */
+  font-weight: 600; /* Bold or weight  */
+  font-family: 'Arial', 'Helvetica', sans-serif !important;
+}
+
+/* Adjust subtitle or smaller headings */
+h2 {
+  font-size: 1.5rem !important;
+  font-family: 'Arial', 'Helvetica', sans-serif !important;
+}
+
+h3 {
+  font-size: 1.1rem !important;
+  font-family: 'Arial', 'Helvetica', sans-serif !important;
+}
+
+/* Font for headings and other text elements */
+h4, h5, h6, p, a {
+  font-family: 'Arial', 'Helvetica', sans-serif !important;
+}
+
+.palevioletred{
+   color: palevioletred;
+   font-weight: bold;
+}
+
+.central h2 {
+  text-align: center;
+}
