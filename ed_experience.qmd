@@ -2,26 +2,25 @@
 
 [Adjunct Lecturer]{.palevioletred} (exercises)
 
-- Statistical Modelling, Bachelor’s Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) [English]
+-   Statistical Modelling, Bachelor's Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) \[English\]
 
 [Tutor]{.palevioletred}
 
-- Statistical Learning, Master’s Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 22-23, 23-24) [English]
+-   Statistical Learning, Master's Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 22-23, 23-24) \[English\]
 
 ## Work Experience {.central}
 
-[Data Science Analyst]{.palevioletred} 
+[Data Science Analyst]{.palevioletred}
 
-- Accenture. Industry: TELCO. Period June 22--Oct 22.
+-   Accenture. Industry: TELCO. Period June 22--Oct 22.
 
-[Data Engineering Analyst]{.palevioletred} 
+[Data Engineering Analyst]{.palevioletred}
 
-- Accenture. Industry: Banking and Finance. Period Jan 22--June 22
+-   Accenture. Industry: Banking and Finance. Period Jan 22--June 22
 
 ## Education {.central}
 
-:::: {layout="[10, 0, 90]"}
-
+::: {layout="[10, 0, 90]"}
 ::: {#second-column}
 ![](images/logoB.png)
 :::
@@ -32,61 +31,46 @@
 ::: {#first-column}
 [Ph.D. in Statistics]{.palevioletred}, University of Milano-Bicocca, Milan, Italy.
 
-Period Oct 2022--Ongoing. 
+Period Oct 2022--Ongoing.
 
-I am working under the supervision of Prof. Matteo Borrotti 
-
+I am working under the supervision of Prof. Matteo Borrotti
+:::
 :::
 
-
-::::
-
-:::: {layout="[10, 0, 90]"}
-
-
+::: {layout="[10, 0, 90]"}
 ::: {#second-column}
 ![](images/logoB.png)
 :::
 
 ::: {#middle-column}
 :::
-
 
 ::: {#first-column}
 [M.Sc. in Economics and Statistical Science]{.palevioletred}, University of Milano-Bicocca, Milan, Italy.
 
 Period Oct 2019--Jan 2022. Final mark: 110/110 with laude.
 
-Thesis title: [Recurrent structures of Deep Reinforcement Learning for self-driving car]{.palevioletred}.
+Thesis title: **Recurrent structures of Deep Reinforcement Learning for self-driving car**.
 
 Advisor: Prof. Matteo Borrotti. Co-Advisor: Prof. Antonio Candelieri
 :::
+:::
 
-
-::::
-
-:::: {layout="[10, 0, 90]"}
-
+::: {layout="[10, 0, 90]"}
 ::: {#second-column}
 ![](images/logoB.png)
 :::
 
-
 ::: {#middle-column}
 :::
-
 
 ::: {#first-column}
 [B.Sc. in Economics and Statistical Science]{.palevioletred}, University of Milano-Bicocca, Milan, Italy.
 
 Period Oct 2016--July 2019.
 
-Thesis title: [The mobile telecommunication market: the entry of Iliad]{.palevioletred}. 
+Thesis title: **The mobile telecommunication market: the entry of Iliad**.
 
 Advisor: Dott. Christian Garavaglia.
 :::
-
-
-::::
-
-
+:::

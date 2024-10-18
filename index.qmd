@@ -22,6 +22,6 @@ about:
       href: https://www.linkedin.com/in/valentinazangirolami/
 ---
 
-I am a PhD student in Statistics at <span style="color: palevioletred; font-weight: bold;">Department of Economics, Management and Statistics</span> of <span style="color: palevioletred; font-weight: bold;">University of Milano-Bicocca</span>. I currently live in Italy.
+I am a PhD student in Statistics at [Department of Economics, Management and Statistics]{style="color: palevioletred; font-weight: bold;"} of [University of Milano-Bicocca]{style="color: palevioletred; font-weight: bold;"}. I currently live in Italy.
 
 ## About me {.central}
