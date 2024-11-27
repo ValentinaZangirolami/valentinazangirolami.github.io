@@ -10,7 +10,7 @@ about:
   links:
     - icon: journal-text
       text: "Curriculum vitae"
-      href: files/cv_zangirolami.pdf
+      href: /files/cv_zangirolami.pdf
     - icon: envelope-at
       text: "Email address"
       href: "mailto: valentina.zangirolami@unimib.it"
