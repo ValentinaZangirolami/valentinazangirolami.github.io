@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Valentina Zangirolami",
     "section": "",
-    "text": "I am a PhD student in Statistics at Department of Economics, Management and Statistics of University of Milano-Bicocca. I currently live in Italy."
+    "text": "I am a PhD student in Statistics at Department of Economics, Management and Statistics of University of Milano-Bicocca. I currently live in Italy.\nResearch interests: Reinforcement Learning, Computational statistics\nE-mail: valentina.zangirolami@gmail.com"
   },
   {
     "objectID": "about.html",
@@ -53,14 +53,14 @@
     "href": "research.html",
     "title": "Valentina Zangirolami",
     "section": "",
-    "text": "My research focuses on Statistical Reinforcement Learning both online and offline.\n\n\n\n\nGoogle Deep Mind\n\n\n\n\n\nGoogle Deep Mind\n\n\n\nCurrently, I am working on different applications\nWater tank control\nHouse heating control\nPrecision Medicine\nSelf-driving cars"
+    "text": "My research focuses on Statistical Reinforcement Learning both online and offline.\n\n\n\n\nGoogle Deep Mind\n\n\n\n\n\nGoogle Deep Mind"
   },
   {
     "objectID": "research.html#research",
     "href": "research.html#research",
     "title": "Valentina Zangirolami",
     "section": "",
-    "text": "My research focuses on Statistical Reinforcement Learning both online and offline.\n\n\n\n\nGoogle Deep Mind\n\n\n\n\n\nGoogle Deep Mind\n\n\n\nCurrently, I am working on different applications\nWater tank control\nHouse heating control\nPrecision Medicine\nSelf-driving cars"
+    "text": "My research focuses on Statistical Reinforcement Learning both online and offline.\n\n\n\n\nGoogle Deep Mind\n\n\n\n\n\nGoogle Deep Mind"
   },
   {
     "objectID": "ed_experience.html#work-experience",
@@ -80,7 +80,14 @@
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Valentina Zangirolami",
-    "section": "About me",
-    "text": "About me"
+    "section": "",
+    "text": "I am a PhD student in Statistics at Department of Economics, Management and Statistics of University of Milano-Bicocca. I currently live in Italy.\nResearch interests: Reinforcement Learning, Computational statistics\nE-mail: valentina.zangirolami@gmail.com"
+  },
+  {
+    "objectID": "research.html#papers",
+    "href": "research.html#papers",
+    "title": "Valentina Zangirolami",
+    "section": "Papers",
+    "text": "Papers\nArticles in refereed journals\n\nZangirolami, V., and Borrotti, M. (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. Knowledge-Based Systems, 293."
   }
 ]

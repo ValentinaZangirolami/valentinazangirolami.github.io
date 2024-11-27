@@ -21,7 +21,12 @@ about:
       text: "Linkedin"
       href: https://www.linkedin.com/in/valentinazangirolami/
 ---
+## About me {.central}
 
 I am a PhD student in Statistics at [Department of Economics, Management and Statistics]{style="color: palevioletred; font-weight: bold;"} of [University of Milano-Bicocca]{style="color: palevioletred; font-weight: bold;"}. I currently live in Italy.
 
-## About me {.central}
+**Research interests**: Reinforcement Learning, Computational statistics
+
+**E-mail**: valentina.zangirolami@gmail.com
+
+

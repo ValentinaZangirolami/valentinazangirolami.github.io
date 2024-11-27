@@ -10,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: papers.qmd
-        text: Papers & Conferences
       - href: ed_experience.qmd
         text: Experience
       - href: research.qmd
