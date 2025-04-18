@@ -26,3 +26,10 @@ My research focuses on [Statistical Reinforcement Learning]{style="color: palevi
 
 1.  **Zangirolami, V.**, and Borrotti, M. (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. *Knowledge-Based Systems*, **293**.
 
+
+## Conferences {.central}
+
+[Invited talk]{.palevioletred}
+
+1.  **Zangirolami, V.** (2024). Enhancing data efficiency in online deep reinforcement learning under partial observability. *18th International Conference of the ERCIM WG on Computational and Methodological Statistics, 13–16 December 2024, London (UK)*.
+

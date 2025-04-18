@@ -2,6 +2,10 @@
 
 [Adjunct Lecturer]{.palevioletred} (exercises)
 
+-   **Statistica per le decisioni aziendali**, Bachelor's Degree in Economics and Management, University of Milan - la Statale (A.Y.24-25) \[Italian\]
+
+-   **Statistical Learning**, Master's Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y.24-25) \[English\]
+
 -   **Statistical Modelling**, Bachelor's Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) \[English\]
 
 [Tutor]{.palevioletred}
@@ -19,6 +23,23 @@
 -   **Accenture**. Industry: Banking and Finance. Period Jan 22--June 22
 
 ## Education {.central}
+
+::: {layout="[10, 0, 90]"}
+::: {#second-column}
+![](images/LSE_Logo.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#first-column}
+[Visiting Research]{.palevioletred}, London School of Economics and Political Science, London, United Kingdom.
+
+Period Feb 2025--May 2025.
+
+I am working under the supervision of Prof. [Chengchun Shi](https://callmespring.github.io/)
+:::
+:::
 
 ::: {layout="[10, 0, 90]"}
 ::: {#second-column}
