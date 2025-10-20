@@ -31,5 +31,9 @@ My research focuses on [Statistical Reinforcement Learning]{style="color: palevi
 
 [Invited talk]{.palevioletred}
 
-1.  **Zangirolami, V.** (2024). Enhancing data efficiency in online deep reinforcement learning under partial observability. *18th International Conference of the ERCIM WG on Computational and Methodological Statistics, 13–16 December 2024, London (UK)*.
+1. **Zangirolami, V.**, Borrotti, M., and Candelieri, A.(2025). *Conformal prediction for safe decision-making*. [HiTEc meeting and Workshop on Complex Data in Econometrics and Statistics, Limassol, Cyprus, 8th-9th July 2025](https://www.cmstatistics.org/hiteccodes2025/fullprogramme.php) - **Session chair**
+
+2. **Zangirolami, V.**, Borrotti, M., and Candelieri, A. (2025). *Using Conformal Prediction for Gaussian Process Regression in Dynamic Systems*. [Statalk 2025, Milan, Italy, 13th-14th June 2025](https://sites.google.com/view/statalk2025dems-unimib/program)
+
+3.  **Zangirolami, V.** (2024). *Enhancing data efficiency in online deep reinforcement learning under partial observability*. [18th International Conference of the ERCIM WG on Computational and Methodological Statistics, 13–16 December 2024, London (UK)](https://www.cmstatistics.org/CFECMStatistics2024/fullprogramme.php)
 
