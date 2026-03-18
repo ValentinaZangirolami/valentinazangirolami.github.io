@@ -6,11 +6,17 @@
 
 [Adjunct Lecturer]{.palevioletred} (exercises)
 
--   **Statistica per le decisioni aziendali**, Bachelor's Degree in Economics and Management, University of Milan - la Statale (A.Y.24-25) \[Italian\]
+-   **Statistica per le decisioni aziendali**, Bachelor's Degree in Economics and Management, University of Milan - la Statale (A.Y. 24-25, 25-26) \[Italian\] 
 
--   **Statistical Learning**, Master's Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y.24-25) \[English\]
+[**R Materials**](https://github.com/ValentinaZangirolami/Statistica_decisioni_aziendali)
 
--   **Statistical Modelling**, Bachelor's Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) \[English\]
+-   **Statistical Learning**, Master's Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 24-25) \[English\] 
+
+[**R Materials**](https://github.com/ValentinaZangirolami/Statistical-Learning)
+
+-   **Statistical Modelling**, Bachelor's Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) \[English\] 
+
+[**R Materials**](https://github.com/ValentinaZangirolami/Statistical_Modelling), [**Written Exercises**](https://laura-dangelo.github.io/statistical_modelling/)
 
 [Tutor]{.palevioletred}
 

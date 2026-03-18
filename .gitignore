@@ -3,3 +3,5 @@
 .Rproj.user
 .RHistory
 .DS_Store
+
+**/*.quarto_ipynb
