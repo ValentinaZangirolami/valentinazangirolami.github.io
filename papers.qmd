@@ -3,3 +3,17 @@
 [Articles in refereed journals]{.palevioletred}
 
 1.  **Zangirolami, V.**, and Borrotti, M. (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. *Knowledge-Based Systems*, **293**.
+
+[Book Chapters and proceedings]{.palevioletred}
+
+1.  **Zangirolami, V.**, Pavesi, F. and Zanotti, M. (2026). 
+Safe Exogenous State Reinforcement Learning for water tank system. *Statistical Science: From Theory to Applied Research I (SIS 2026)*. (accepted)
+
+2.  Pedrazzini, E., **Zangirolami, V.**, Migliorati, S. and Borrotti, M. (2026). 
+Flexible Beta: a Novel Policy Distribution for Proximal Policy Optimization. *Statistical Science: From Theory to Applied Research I (SIS 2026)*. (accepted)
+
+3.  Zanotti, M., **Zangirolami, V.**, and Pavesi, F. (2026). 
+An evaluation of ensemble strategies for time series anomaly detection. *Statistical Science: From Theory to Applied Research I (SIS 2026)*. (accepted)
+
+4.  Pavesi, F., Zanotti, M., and **Zangirolami, V.** (2026). 
+A characterization of Gaussian processes over flat tori. *Statistical Science: From Theory to Applied Research I (SIS 2026)*. (accepted)
