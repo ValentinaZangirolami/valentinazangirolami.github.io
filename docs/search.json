@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Valentina Zangirolami",
     "section": "",
-    "text": "I am a PhD student in Statistics at Department of Economics, Management and Statistics of University of Milano-Bicocca. I currently live in Italy.\nResearch interests: Reinforcement Learning, Computational statistics\nE-mail: valentina.zangirolami@gmail.com"
+    "text": "I am a PhD student in Statistics at Department of Economics, Management and Statistics of University of Milano-Bicocca. I currently live in Italy.\nResearch interests: Reinforcement Learning, Applied Statistics, Statistical Inference\nE-mail: valentina.zangirolami@gmail.com\n\n\nMy research lies at the intersection of reinforcement learning and statistics, with a focus on partial observability and feedback-driven adaptation. In particular, I study questions of statistical inference and robustness in sequential learning problems, and I am currently exploring applications in autonomous driving and water tank control systems."
   },
   {
     "objectID": "about.html",
@@ -67,7 +67,7 @@
     "href": "ed_experience.html#work-experience",
     "title": "Valentina Zangirolami",
     "section": "Work Experience",
-    "text": "Work Experience\nData Science Analyst\n\nAccenture. Industry: TELCO. Period June 22–Oct 22.\n\nData Engineering Analyst\n\nAccenture. Industry: Banking and Finance. Period Jan 22–June 22"
+    "text": "Work Experience\nData Science Analyst\n\nAccenture. Industry: TELCO. Period June 2022–Oct 2022.\n\nData Engineering Analyst\n\nAccenture. Industry: Banking and Finance. Period Jan 2022–June 2022"
   },
   {
     "objectID": "ed_experience.html#education",
@@ -81,14 +81,14 @@
     "href": "index.html#about-me",
     "title": "Valentina Zangirolami",
     "section": "",
-    "text": "I am a PhD student in Statistics at Department of Economics, Management and Statistics of University of Milano-Bicocca. I currently live in Italy.\nResearch interests: Reinforcement Learning, Computational statistics\nE-mail: valentina.zangirolami@gmail.com"
+    "text": "I am a PhD student in Statistics at Department of Economics, Management and Statistics of University of Milano-Bicocca. I currently live in Italy.\nResearch interests: Reinforcement Learning, Applied Statistics, Statistical Inference\nE-mail: valentina.zangirolami@gmail.com\n\n\nMy research lies at the intersection of reinforcement learning and statistics, with a focus on partial observability and feedback-driven adaptation. In particular, I study questions of statistical inference and robustness in sequential learning problems, and I am currently exploring applications in autonomous driving and water tank control systems."
   },
   {
     "objectID": "research.html#papers",
     "href": "research.html#papers",
     "title": "Valentina Zangirolami",
     "section": "Papers",
-    "text": "Papers\nArticles in refereed journals\n\nZangirolami, V., and Borrotti, M. (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. Knowledge-Based Systems, 293.\n\nBook Chapters and proceedings\n\nZangirolami, V., Pavesi, F. and Zanotti, M. (2026). Safe Exogenous State Reinforcement Learning for water tank system. Statistical Science: From Theory to Applied Research I (SIS 2026). (accepted)\nPedrazzini, E., Zangirolami, V., Migliorati, S. and Borrotti, M. (2026). Flexible Beta: a Novel Policy Distribution for Proximal Policy Optimization. Statistical Science: From Theory to Applied Research (SIS 2026). (accepted)\nZanotti, M., Zangirolami, V., and Pavesi, F. (2026). An evaluation of ensemble strategies for time series anomaly detection. Statistical Science: From Theory to Applied Research (SIS 2026). (accepted)\nPavesi, F., Zanotti, M., and Zangirolami, V. (2026). A characterization of Gaussian processes over flat tori. Statistical Science: From Theory to Applied Research (SIS 2026). (accepted)"
+    "text": "Papers\nArticles in refereed journals\n\nZangirolami, V., and Borrotti, M. (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. Knowledge-Based Systems, 293.\n\nBook Chapters and proceedings\n\nZangirolami, V., Pavesi, F. and Zanotti, M. (2026). Safe Exogenous State Reinforcement Learning for water tank system. Statistical Science: From Theory to Applied Research (SIS 2026). (accepted)\nPedrazzini, E., Zangirolami, V., Migliorati, S. and Borrotti, M. (2026). Flexible Beta: a Novel Policy Distribution for Proximal Policy Optimization. Statistical Science: From Theory to Applied Research (SIS 2026). (accepted)\nZanotti, M., Zangirolami, V., and Pavesi, F. (2026). An evaluation of ensemble strategies for time series anomaly detection. Statistical Science: From Theory to Applied Research (SIS 2026). (accepted)\nPavesi, F., Zanotti, M., and Zangirolami, V. (2026). A characterization of Gaussian processes over flat tori. Statistical Science: From Theory to Applied Research (SIS 2026). (accepted)"
   },
   {
     "objectID": "research.html#conferences",

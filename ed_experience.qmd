@@ -6,15 +6,15 @@
 
 [Adjunct Lecturer]{.palevioletred} (exercises)
 
--   **Statistica per le decisioni aziendali**, Bachelor's Degree in Economics and Management, University of Milan - la Statale (A.Y. 24-25, 25-26) \[Italian\] 
+-   **Statistica per le decisioni aziendali**, Bachelor's Degree in Economics and Management, University of Milan - la Statale (A.Y. 24-25, 25-26) \[Italian\]
 
 [**R Materials**](https://github.com/ValentinaZangirolami/Statistica_decisioni_aziendali)
 
--   **Statistical Learning**, Master's Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 24-25) \[English\] 
+-   **Statistical Learning**, Master's Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 24-25) \[English\]
 
 [**R Materials**](https://github.com/ValentinaZangirolami/Statistical-Learning)
 
--   **Statistical Modelling**, Bachelor's Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) \[English\] 
+-   **Statistical Modelling**, Bachelor's Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) \[English\]
 
 [**R Materials**](https://github.com/ValentinaZangirolami/Statistical_Modelling), [**Written Exercises**](https://laura-dangelo.github.io/statistical_modelling/)
 
@@ -26,15 +26,15 @@
 
 [Data Science Analyst]{.palevioletred}
 
--   **Accenture**. Industry: TELCO. Period June 22--Oct 22.
+-   **Accenture**. Industry: TELCO. Period June 2022--Oct 2022.
 
 [Data Engineering Analyst]{.palevioletred}
 
--   **Accenture**. Industry: Banking and Finance. Period Jan 22--June 22
+-   **Accenture**. Industry: Banking and Finance. Period Jan 2022--June 2022
 
 ## Education {.central}
 
-::: {layout="[10, 0, 90]"}
+:::::: {layout="[10, 0, 90]"}
 ::: {#second-column}
 ![](images/LSE_Logo.png)
 :::
@@ -49,9 +49,9 @@ Period Feb 2025--May 2025/ Sept 2025 - ongoing.
 
 I am working under the supervision of Prof. [Chengchun Shi](https://callmespring.github.io/)
 :::
-:::
+::::::
 
-::: {layout="[10, 0, 90]"}
+:::::: {layout="[10, 0, 90]"}
 ::: {#second-column}
 ![](images/logoB.png)
 :::
@@ -64,14 +64,13 @@ I am working under the supervision of Prof. [Chengchun Shi](https://callmespring
 
 Period Oct 2022--Ongoing.
 
-Advisor: Prof. [Chengchun Shi](https://callmespring.github.io/) 
+Advisor: Prof. [Chengchun Shi](https://callmespring.github.io/)
 
 Co-Advisor: Prof. [Matteo Borrotti](https://matteoborrotti.github.io/)
-
 :::
-:::
+::::::
 
-::: {layout="[10, 0, 90]"}
+:::::: {layout="[10, 0, 90]"}
 ::: {#second-column}
 ![](images/logoB.png)
 :::
@@ -86,13 +85,13 @@ Period Oct 2019--Jan 2022. Final mark: 110/110 with honors.
 
 Thesis title: **Recurrent structures of Deep Reinforcement Learning for self-driving car**.
 
-Advisor: Prof. Matteo Borrotti 
+Advisor: Prof. Matteo Borrotti
 
 Co-Advisor: Prof. Antonio Candelieri
 :::
-:::
+::::::
 
-::: {layout="[10, 0, 90]"}
+:::::: {layout="[10, 0, 90]"}
 ::: {#second-column}
 ![](images/logoB.png)
 :::
@@ -109,4 +108,4 @@ Thesis title: **The mobile telecommunication market: the entry of Iliad**.
 
 Advisor: Dott. Christian Garavaglia
 :::
-:::
+::::::

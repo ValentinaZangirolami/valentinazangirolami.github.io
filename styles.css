@@ -57,3 +57,17 @@ h4, h5, h6, p, a {
 .central h2 {
   text-align: center;
 }
+
+.research-box {
+  margin-top: 1.2em;
+  padding: 1em 1.2em;
+  border-left: 5px solid palevioletred;
+  background-color: #faf7fa;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.research-box h3 {
+  margin-top: 0;
+  color: palevioletred;
+}
