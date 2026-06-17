@@ -30,7 +30,8 @@ I am a PhD student in Statistics at [Department of Economics, Management and Sta
 
 **E-mail**: valentina.zangirolami\@gmail.com
 
-::: {.research-box}
+::: research-box
 ### Research overview
+
 My research lies at the intersection of reinforcement learning and statistics, with a focus on partial observability and feedback-driven adaptation. In particular, I study questions of statistical inference and robustness in sequential learning problems, and I am currently exploring applications in autonomous driving and water tank control systems.
 :::
