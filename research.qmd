@@ -30,7 +30,7 @@ My research focuses on [Statistical Reinforcement Learning]{style="color: palevi
 
 1.  **Zangirolami, V.**, Pavesi, F. and Zanotti, M. (2026). Safe Exogenous State Reinforcement Learning for water tank system. *Statistical Science: From Theory to Applied Research IV*. (to appear)
 
-2.  Pedrazzini, E., **Zangirolami, V.**, Migliorati, S. and Borrotti, M. (2026). Beta-Distributed Proximal Policy Optimization for Autonomous Driving with Grad-CAM Explainability. *IFIP International Conference on Artificial Intelligence Applications and Innovations*. (accepted)
+2.  Pedrazzini, E., **Zangirolami, V.**, Migliorati, S. and Borrotti, M. (2026). Beta-Distributed Proximal Policy Optimization for Autonomous Driving with Grad-CAM Explainability. *Artificial Intelligence Applications and Innovations*.
 
 3.  Pedrazzini, E., **Zangirolami, V.**, Migliorati, S. and Borrotti, M. (2026). Flexible Beta: a Novel Policy Distribution for Proximal Policy Optimization. *Statistical Science: From Theory to Applied Research IV*. (to appear)
 
@@ -50,5 +50,4 @@ My research focuses on [Statistical Reinforcement Learning]{style="color: palevi
 
 [Contributed talks]{.palevioletred}
 
-1.  **Zangirolami, V.**, Pavesi, F. and Zanotti, M. (2026). *Safe Exogenous State Reinforcement Learning for water tank system*. [Joint Meeting
-SIS-FENStatS 2026, Rome, Italy, June 22--25, 2026](https://sis2026.sis-statistica.it/conference-program/).
+1.  **Zangirolami, V.**, Pavesi, F. and Zanotti, M. (2026). *Safe Exogenous State Reinforcement Learning for water tank system*. [Joint Meeting SIS-FENStatS 2026, Rome, Italy, June 22--25, 2026](https://sis2026.sis-statistica.it/conference-program/).
