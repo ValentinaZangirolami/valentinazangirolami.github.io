@@ -10,10 +10,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Papers
       - href: ed_experience.qmd
         text: Experience
-      - href: research.qmd
-        text: Research
+      - href: activities.qmd
+        text: Research activities
+      - href: awards.qmd
+        text: Awards
 
 format:
   html:

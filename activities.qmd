@@ -1,0 +1,14 @@
+## Research activities {.central}
+
+[Scientific events]{.palevioletred}
+
+-   **Student Volunteer Organiser**, in NeurIPS 2026 Workshop [Foundations of LLM
+Post-Training in Changing Environments](https://www.fllmpt-work.shop/)
+
+
+[Thesis co-supervision]{.palevioletred}
+
+-   **Conformal Prediction for Neural Fitted Q-iteration for water-tank dynamic systems**, Giulia De Innocentis, Master's Degree in Statistical and Economics Science (A.Y. 24-25)
+-   **Conformal Prediction for Fitted Q-iteration for house-heating dynamic systems**, Giorgia Faccaroni, Master's Degree in Statistical and Economics Science (A.Y. 24-25) 
+-   **Proximal Policy Optimization for Autonomous Driving**, Antonio Monforte, Master's Degree in Statistical and Economics Science (A.Y. 23-24)
+-   **Conformal Prediction for Superconductivity Data**, Roberto Magnacavallo, Master's Degree in Statistical and Economics Science (A.Y. 24-25)

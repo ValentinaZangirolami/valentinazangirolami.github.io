@@ -1,6 +1,6 @@
 ---
 title: "Valentina Zangirolami"
-subtitle: "PhD Student in Statistics at University of Milano-Bicocca"
+subtitle: "PhD Candidate in Statistics at University of Milano-Bicocca"
 page-layout: full
 about:
   template: trestles
