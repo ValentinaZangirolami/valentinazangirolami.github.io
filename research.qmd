@@ -22,6 +22,10 @@ My research focuses on [Statistical Reinforcement Learning]{style="color: palevi
 
 ## Papers {.central}
 
+[Working papers]{.palevioletred}
+
+1.  Ye, K., Gong, S., Zhou, H, **Zangirolami, V.**, and Shi, C. (2026+). [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114) 
+
 [Articles in refereed journals]{.palevioletred}
 
 1.  **Zangirolami, V.**, and Borrotti, M. (2024). Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning. *Knowledge-Based Systems*, **293**.

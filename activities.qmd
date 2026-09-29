@@ -2,7 +2,7 @@
 
 [Scientific events]{.palevioletred}
 
--   **Student Volunteer Organiser**, in NeurIPS 2026 Workshop [Foundations of LLM
+-   **PhD-Student Organizer (Program Chair)**, in NeurIPS 2026 Workshop [Foundations of LLM
 Post-Training in Changing Environments](https://www.fllmpt-work.shop/)
 
 
