@@ -1,6 +1,6 @@
 ---
 title: "Valentina Zangirolami"
-subtitle: "PhD Candidate in Statistics at University of Milano-Bicocca"
+subtitle: "Research Fellow in Statistics at CNR-IMATI<br>Statistical Analyst at University of <span style='white-space: nowrap;'>Milano-Bicocca</span>"
 page-layout: full
 about:
   template: trestles
@@ -24,7 +24,7 @@ about:
 
 ## About me {.central}
 
-I am a PhD student in Statistics at [Department of Economics, Management and Statistics]{style="color: palevioletred; font-weight: bold;"} of [University of Milano-Bicocca]{style="color: palevioletred; font-weight: bold;"}. I currently live in Italy.
+I am a Research Fellow in Statistics at [Institute for Applied Mathematics and Information Technologies “Enrico Magenes” (CNR-IMATI)]{style="color: palevioletred; font-weight: bold;"}. I currently live in Italy.
 
 ::: research-box
 ### Research overview

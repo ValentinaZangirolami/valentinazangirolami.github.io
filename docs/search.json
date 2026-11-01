@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Valentina Zangirolami",
     "section": "",
-    "text": "I am a PhD student in Statistics at Department of Economics, Management and Statistics of University of Milano-Bicocca. I currently live in Italy.\n\n\nMy research lies at the intersection of reinforcement learning and statistics, with a focus on partial observability and feedback-driven adaptation. In particular, I study questions of statistical inference and robustness in sequential learning problems, and I am currently exploring applications in autonomous driving and water tank control systems.\n\nResearch interests: Reinforcement Learning, Applied Statistics, Safe reinforcement learning\nE-mail: valentina.zangirolami@gmail.com\nHobbies: I like travelling, especially nearby the sea, and spending time with my cat. Over the past year, I have also started learning Mandarin Chinese :)"
+    "text": "I am a Research Fellow in Statistics at Institute for Applied Mathematics and Information Technologies “Enrico Magenes” (CNR-IMATI). I currently live in Italy.\n\n\nMy research lies at the intersection of reinforcement learning and statistics, with a focus on partial observability and feedback-driven adaptation. In particular, I study questions of statistical inference and robustness in sequential learning problems, and I am currently exploring applications in autonomous driving and water tank control systems.\n\nResearch interests: Reinforcement Learning, Applied Statistics, Safe reinforcement learning\nE-mail: valentina.zangirolami@gmail.com\nHobbies: I like travelling, especially nearby the sea, and spending time with my cat. Over the past year, I have also started learning Mandarin Chinese :)"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "ed_experience.html",
     "title": "Valentina Zangirolami",
     "section": "",
-    "text": "Teaching Assistant\n\nStatistics, cod. 30001, Bocconi University (A.Y. 25-26)\n\nAdjunct Lecturer (exercises)\n\nStatistics, Master’s Degree in Biomedical Engineering (MEDTEC), Polytechnic University of Milan (A.Y. 26-27) [English] - forthcoming\nStatistica per le decisioni aziendali, Bachelor’s Degree in Economics and Management, University of Milan - la Statale (A.Y. 24-25, 25-26) [Italian]\n\nR Materials\n\nStatistical Learning, Master’s Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 24-25) [English]\n\nR Materials\n\nStatistical Modelling, Bachelor’s Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) [English]\n\nR Materials, Written Exercises\nTutor\n\nAnalisi Statistica Multivariata, Bachelor’s Degree in Statistics, Machine Learning and Economics, University of Milano-Bicocca (A.Y. 26-27) [Italian] - forthcoming\nStatistical Learning, Master’s Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 22-23, 23-24) [English]"
+    "text": "Research Fellow, Institute for Applied Mathematics and Information Technologies “Enrico Magenes” (CNR-IMATI)\n\nPeriod: November 2026–ongoing.\n\nStatistical Analyst, University of Milano-Bicocca\n\nPeriod: November 2026–ongoing.\n\nData Science Analyst, Accenture\n\nIndustry: TELCO. Period: June 2022–Oct 2022.\n\nData Engineering Analyst, Accenture\n\nIndustry: Banking and Finance. Period: Jan 2022–June 2022."
   },
   {
     "objectID": "papers.html",
@@ -45,8 +45,8 @@
     "objectID": "ed_experience.html#teaching",
     "href": "ed_experience.html#teaching",
     "title": "Valentina Zangirolami",
-    "section": "",
-    "text": "Teaching Assistant\n\nStatistics, cod. 30001, Bocconi University (A.Y. 25-26)\n\nAdjunct Lecturer (exercises)\n\nStatistics, Master’s Degree in Biomedical Engineering (MEDTEC), Polytechnic University of Milan (A.Y. 26-27) [English] - forthcoming\nStatistica per le decisioni aziendali, Bachelor’s Degree in Economics and Management, University of Milan - la Statale (A.Y. 24-25, 25-26) [Italian]\n\nR Materials\n\nStatistical Learning, Master’s Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 24-25) [English]\n\nR Materials\n\nStatistical Modelling, Bachelor’s Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) [English]\n\nR Materials, Written Exercises\nTutor\n\nAnalisi Statistica Multivariata, Bachelor’s Degree in Statistics, Machine Learning and Economics, University of Milano-Bicocca (A.Y. 26-27) [Italian] - forthcoming\nStatistical Learning, Master’s Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 22-23, 23-24) [English]"
+    "section": "Teaching",
+    "text": "Teaching\nTeaching Assistant\n\nStatistics, cod. 30001, Bocconi University (A.Y. 25-26, 26-27)\n\nAdjunct Lecturer (exercises)\n\nStatistics, Master’s Degree in Biomedical Engineering (MEDTEC), Polytechnic University of Milan (A.Y. 26-27) [English]\nStatistica per le decisioni aziendali, Bachelor’s Degree in Economics and Management, University of Milan - la Statale (A.Y. 24-25, 25-26) [Italian]\n\nR Materials\n\nStatistical Learning, Master’s Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 24-25) [English]\n\nR Materials\n\nStatistical Modelling, Bachelor’s Degree in Artificial Intelligence, University of Milano-Bicocca (A.Y. 23-24) [English]\n\nR Materials, Written Exercises\nTutor\n\nAnalisi Statistica Multivariata, Bachelor’s Degree in Statistics, Machine Learning and Economics, University of Milano-Bicocca (A.Y. 26-27) [Italian]\nStatistical Learning, Master’s Degree in Artificial Intelligence for Science and Technology, University of Milano-Bicocca (A.Y. 22-23, 23-24) [English]"
   },
   {
     "objectID": "research.html",
@@ -66,22 +66,22 @@
     "objectID": "ed_experience.html#work-experience",
     "href": "ed_experience.html#work-experience",
     "title": "Valentina Zangirolami",
-    "section": "Work Experience",
-    "text": "Work Experience\nData Science Analyst\n\nAccenture. Industry: TELCO. Period June 2022–Oct 2022.\n\nData Engineering Analyst\n\nAccenture. Industry: Banking and Finance. Period Jan 2022–June 2022"
+    "section": "",
+    "text": "Research Fellow, Institute for Applied Mathematics and Information Technologies “Enrico Magenes” (CNR-IMATI)\n\nPeriod: November 2026–ongoing.\n\nStatistical Analyst, University of Milano-Bicocca\n\nPeriod: November 2026–ongoing.\n\nData Science Analyst, Accenture\n\nIndustry: TELCO. Period: June 2022–Oct 2022.\n\nData Engineering Analyst, Accenture\n\nIndustry: Banking and Finance. Period: Jan 2022–June 2022."
   },
   {
     "objectID": "ed_experience.html#education",
     "href": "ed_experience.html#education",
     "title": "Valentina Zangirolami",
     "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\n\nVisiting Research, London School of Economics and Political Science, London, United Kingdom.\nPeriod Feb 2025–May 2025/ Sept 2025 - July 2026.\nI am working under the supervision of Prof. Chengchun Shi\n\n\n\n\n\n\n\n\n\n\n\n\nPh.D. in Statistics, University of Milano-Bicocca, Milan, Italy.\nPeriod Oct 2022–Ongoing.\nAdvisor: Prof. Chengchun Shi\nCo-Advisor: Prof. Matteo Borrotti\n\n\n\n\n\n\n\n\n\n\n\n\nM.Sc. in Economics and Statistical Science, University of Milano-Bicocca, Milan, Italy.\nPeriod Oct 2019–Jan 2022. Final mark: 110/110 with honors.\nThesis title: Recurrent structures of Deep Reinforcement Learning for self-driving car.\nAdvisor: Prof. Matteo Borrotti\nCo-Advisor: Prof. Antonio Candelieri\n\n\n\n\n\n\n\n\n\n\n\n\nB.Sc. in Economics and Statistical Science, University of Milano-Bicocca, Milan, Italy.\nPeriod Oct 2016–July 2019.\nThesis title: The mobile telecommunication market: the entry of Iliad.\nAdvisor: Dott. Christian Garavaglia"
+    "text": "Education\n\n\n\n\n\n\n\n\n\nVisiting Research, London School of Economics and Political Science, London, United Kingdom.\nPeriod Feb 2025–May 2025/ Sept 2025 - July 2026.\nAdvisor: Prof. Chengchun Shi\n\n\n\n\n\n\n\n\n\n\n\n\nPh.D. in Statistics, University of Milano-Bicocca, Milan, Italy.\nPeriod Oct 2022–Oct 2026 (Expected graduation: Jan-Mar 2027).\nThesis title: On statistical methods for reinforcement learning with complex data.\nAdvisor: Prof. Chengchun Shi\nCo-Advisor: Prof. Matteo Borrotti\n\n\n\n\n\n\n\n\n\n\n\n\nM.Sc. in Economics and Statistical Science, University of Milano-Bicocca, Milan, Italy.\nPeriod Oct 2019–Jan 2022. Final mark: 110/110 with honors.\nThesis title: Recurrent structures of Deep Reinforcement Learning for self-driving car.\nAdvisor: Prof. Matteo Borrotti\nCo-Advisor: Prof. Antonio Candelieri\n\n\n\n\n\n\n\n\n\n\n\n\nB.Sc. in Economics and Statistical Science, University of Milano-Bicocca, Milan, Italy.\nPeriod Oct 2016–July 2019.\nThesis title: The mobile telecommunication market: the entry of Iliad.\nAdvisor: Dott. Christian Garavaglia"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Valentina Zangirolami",
     "section": "",
-    "text": "I am a PhD student in Statistics at Department of Economics, Management and Statistics of University of Milano-Bicocca. I currently live in Italy.\n\n\nMy research lies at the intersection of reinforcement learning and statistics, with a focus on partial observability and feedback-driven adaptation. In particular, I study questions of statistical inference and robustness in sequential learning problems, and I am currently exploring applications in autonomous driving and water tank control systems.\n\nResearch interests: Reinforcement Learning, Applied Statistics, Safe reinforcement learning\nE-mail: valentina.zangirolami@gmail.com\nHobbies: I like travelling, especially nearby the sea, and spending time with my cat. Over the past year, I have also started learning Mandarin Chinese :)"
+    "text": "I am a Research Fellow in Statistics at Institute for Applied Mathematics and Information Technologies “Enrico Magenes” (CNR-IMATI). I currently live in Italy.\n\n\nMy research lies at the intersection of reinforcement learning and statistics, with a focus on partial observability and feedback-driven adaptation. In particular, I study questions of statistical inference and robustness in sequential learning problems, and I am currently exploring applications in autonomous driving and water tank control systems.\n\nResearch interests: Reinforcement Learning, Applied Statistics, Safe reinforcement learning\nE-mail: valentina.zangirolami@gmail.com\nHobbies: I like travelling, especially nearby the sea, and spending time with my cat. Over the past year, I have also started learning Mandarin Chinese :)"
   },
   {
     "objectID": "research.html#papers",
